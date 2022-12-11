@@ -1,0 +1,15 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+}
+
+/* VARIABLES */
+:root{
+    --color:rgb(237, 56, 89);
+}
+.btn-clr{
+    background-color: var(--color );
+}
+
